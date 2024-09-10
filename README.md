@@ -19,7 +19,7 @@ copy the vpc-V2 files under module folder
 commit it and push to the repo
 
 > [!NOTE]
-> we are adding tag to our commit to represent a version of the infrastructure configuration inside the module. 
+> we are adding **tag** to our commit to represent a version of the infrastructure configuration inside the module. 
 
 This tag we be reference when we want to create our resources.
 
